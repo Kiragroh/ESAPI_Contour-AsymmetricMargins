@@ -1,4 +1,4 @@
-# ESAPI_Contour-AssymetricMargins
+# ESAPI_Contour-AsymmetricMargins
 (BinaryPlugin)
 AutoContour specifc structures with asymmetric or symmetric margins
 
